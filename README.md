@@ -55,6 +55,8 @@ The tool to render these maps will be released shortly so you can generate your 
 
 Please send feedback or problems [there](https://github.com/RKI027/ffxiv-huntmaps/issues)
 
-This mod is created by [Arkhelyi](https://github.com/RKI027).
+This mod is created by [Arkhelyi](https://github.com/RKI027) (discord: Arkhelyi#0899)
+
+Thanks to [skotlex](https://github.com/skotlex/ffxiv-material-ui) from whom this read me is largely inspired.
 
 Special thanks to the Faloop community for being awesome and the feedback from some of its members.

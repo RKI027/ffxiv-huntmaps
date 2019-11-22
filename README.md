@@ -1,7 +1,6 @@
 # FFXIV Elite Marks Annotated Maps
 
-Intro
-
+This repo releases a mod pack for FFXIV that customize maps with annotations to point Elite Marks spawn points.
 
 ## Mod Download
 

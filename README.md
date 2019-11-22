@@ -14,7 +14,7 @@ Note that the previews below are the raw (annotated) game assets. In-game render
 | :--------: | :------------: |
 | <a href="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/sample/kholusia-asset.png"><img src="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/sample/kholusia-asset.png" width="150"/> | <a href="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/sample/kholusia-in-game.png"><img src="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/sample/kholusia-in-game.png" width="150"/> |
 
-<details><summary>**ARR**</summary>
+<details><summary><b>ARR</b></summary>
 
 | Thanalan | La Noscea | The Black Shroud | Coerthas | Mor Dhona | 
 | :---: | :---: | :---: | :---: | :---: | 
@@ -27,7 +27,7 @@ Note that the previews below are the raw (annotated) game assets. In-game render
 
 </details>
 
-<details><summary>**Heavensward**</summary>
+<details><summary><b>Heavensward</b></summary>
 
 | Coerthas | Dravania | Abalathia's Spine | 
 | :---: | :---: | :---: | 
@@ -37,7 +37,7 @@ Note that the previews below are the raw (annotated) game assets. In-game render
 
 </details>
 
-<details><summary>**Stormblood**</summary>
+<details><summary><b>Stormblood</b></summary>
 
 | Gyr Abania | Othard | 
 | :---: | :---: | 
@@ -47,7 +47,7 @@ Note that the previews below are the raw (annotated) game assets. In-game render
 
 </details>
 
-<details><summary>**Shadowbringers**</summary>
+<details><summary><b>Shadowbringers</b></summary>
 
 | Norvrandt 1 | Norvrandt 2 | 
 | :---: | :---: | 

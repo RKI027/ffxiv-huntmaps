@@ -48,7 +48,9 @@ Use of this mod is at your own risk. Square Enix does not permit the use of any 
 
 ## Customization
 
-The tool to render the maps will be released shortly so you can generate your own maps.
+Individual maps are available in the repo under `Saved/UI/Maps/[region]/[zone]`.
+
+The tool to render these maps will be released shortly so you can generate your own maps.
 
 ## Credit / Contacts
 

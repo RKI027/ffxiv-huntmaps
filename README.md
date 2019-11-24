@@ -10,6 +10,8 @@ Download [link](https://github.com/RKI027/ffxiv-huntmaps/releases)
 
 Note that the previews below are the raw (annotated) game assets. In-game rendering will be different:
 
+<!-- markdownlint-disable -->
+
 | Asset file | In-game render |
 | :--------: | :------------: |
 | <a href="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/sample/kholusia-asset.png"><img src="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/sample/kholusia-asset.png" width="150"/> | <a href="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/sample/kholusia-in-game.png"><img src="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/sample/kholusia-in-game.png" width="150"/> |
@@ -56,30 +58,34 @@ Note that the previews below are the raw (annotated) game assets. In-game render
 | <a href="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/Saved/UI/Maps/Norvrandt/Kholusia/n4f200_m.png"><img src="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/Saved/UI/Maps/Norvrandt/Kholusia/n4f200_m.png" width="150"/> |<a href="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/Saved/UI/Maps/Norvrandt/The Tempest/n4f600_m.png"><img src="https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/Saved/UI/Maps/Norvrandt/The Tempest/n4f600_m.png" width="150"/> |
 
 </details>
+<!-- markdownlint-enable -->
 
 ## Installing
 
 1. Download and install FFXIV TexTools
 
-*From the first release, this has been done and tested with TexTools v2.0.10*
+   download [link](https://textools.dualwield.net)
 
-download link: https://textools.dualwield.net
+   *From the first release, this has been done and tested with TexTools v2.0.10*
 
 2. make sure to backup index files
 
-TexTools should propose you to do it at first start or whenever they changes. If not: `[Help -> Backup Index Files]`
+   TexTools should propose you to do it at first start or whenever they changes.
+   If not: `[Help -> Backup Index Files]`
 
 3. Import the modpack
 
-You can place the mod folder in `...\TexTools\ModPacks\` for easy keeping but that's not necessary
-`[Mods -> Import ModPacks]` and select the `.ttmp2` file.
+   You can place the mod folder in `...\TexTools\ModPacks\` for easy keeping but
+   that's not necessary.
+   `[Mods -> Import ModPacks]` and select the `.ttmp2` file.
 
 4. Go hunting!
 
 ## What to do for new FFXIV Patches
 
 A FFXIV update will, in most if not all cases, overwrite and disable the mod.
-Usually, just re-enabling the mod (`[Mods -> Mod List -> Mod Pack, select and Enable]`) is enough.
+Usually, just re-enabling the mod is enough:
+`[Mods -> Mod List -> Mod Pack, select and Enable]`
 
 Safe procedure:
 
@@ -90,13 +96,16 @@ Safe procedure:
 
 ## Disclaimers
 
-Use of this mod is at your own risk. Square Enix does not permit the use of any third party tools, even those which do not modify the game. They have stated in interviews that they did not view parsers as a significant problem unless players use them to harass other players.
+Use of this mod is at your own risk. Square Enix does not permit the use of
+any third party tools, even those which do not modify the game. They have stated
+in interviews that they did not view parsers as a significant problem unless players
+use them to harass other players.
 
 ## Customization
 
 Individual maps are available in the repo under `Saved/UI/Maps/[region]/[zone]`.
 
-The tool to render these maps will be released shortly so you can generate your own maps.
+The tool to render is available at [ffxiv-huntmaps-maker](https://github.com/RKI027/ffxiv-huntmaps-maker).
 
 ## Credit / Contacts
 
@@ -104,6 +113,8 @@ Please send feedback or problems [there](https://github.com/RKI027/ffxiv-huntmap
 
 This mod is created by [Arkhelyi](https://github.com/RKI027) (discord: Arkhelyi#0899)
 
-Thanks to [skotlex](https://github.com/skotlex/ffxiv-material-ui) from whom this read me is largely inspired.
+Thanks to [skotlex](https://github.com/skotlex/ffxiv-material-ui) from whom this
+readme is largely inspired.
 
-Special thanks to the Faloop community for being awesome and the feedback from some of its members.
+Special thanks to the Faloop community for being awesome and the feedback from
+some of its members.

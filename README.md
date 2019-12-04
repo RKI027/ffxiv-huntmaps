@@ -118,3 +118,5 @@ readme is largely inspired.
 
 Special thanks to the Faloop community for being awesome and the feedback from
 some of its members.
+
+ALL FINAL FANTASY XIV CONTENT IS PROPERTY OF SQUARE ENIX CO., LTD

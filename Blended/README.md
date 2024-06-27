@@ -27,4 +27,6 @@ For each of these three versions, the next step is to process the mask to remove
 
 Once the masks are done, it's just a matter of blending the map and the appropriate background. Credit here to [SaintCoinach](https://github.com/ufx/SaintCoinach) from which i took the blending method.
 
+Since ShB, it seems the (parchment) texture is unchanged, only the borders and map title design is different so even though I made masks for EW, the tool will use the Shb ones for ShB, EW and DT.
+
 This part is implemented in [ffixv-huntmaps-maker](https://github.com/RKI027/ffxiv-huntmaps-maker) along with the commands to go through all maps.
